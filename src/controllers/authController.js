@@ -251,13 +251,14 @@ exports.requestDeleteOtp = async (req, res) => {
             });
         }
 
-        // Configure Transporter (Using Brevo SMTP Relay)
+        // Configure Transporter (Brevo SMTP - Port 2525 is safer on Cloud)
         const transporter = nodemailer.createTransport({
             host: 'smtp-relay.brevo.com',
-            port: 587,
-            secure: false, // TLS
+            port: 2525, // Port 2525 is often open when 587 is throttled
+            secure: false,
             auth: {
-                user: process.env.EMAIL_USER,
+                // Use BREVO_USER if set (for login), otherwise fallback to EMAIL_USER
+                user: process.env.BREVO_USER || process.env.EMAIL_USER,
                 pass: process.env.EMAIL_APP_PASSWORD
             },
             connectionTimeout: 10000
