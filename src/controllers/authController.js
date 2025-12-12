@@ -251,14 +251,19 @@ exports.requestDeleteOtp = async (req, res) => {
             });
         }
 
-        // Configure Transporter (Simple Gmail Service + 10s Timeout)
+        // Configure Transporter (Try Port 2525 - often open on Cloud)
         const transporter = nodemailer.createTransport({
-            service: 'gmail',
+            host: 'smtp.gmail.com',
+            port: 465, // Back to 465 SSL as 2525 is rarely for Gmail direct
+            secure: true,
             auth: {
                 user: process.env.EMAIL_USER,
                 pass: process.env.EMAIL_APP_PASSWORD
             },
-            connectionTimeout: 10000 // Wait 10 seconds before timeout
+            tls: {
+                rejectUnauthorized: false // Helps with self-signed certs issues
+            },
+            connectionTimeout: 10000
         });
 
         const mailOptions = {
