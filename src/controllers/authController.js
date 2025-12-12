@@ -251,15 +251,14 @@ exports.requestDeleteOtp = async (req, res) => {
             });
         }
 
-        // Configure Transporter (Port 587 is standard for TLS)
+        // Configure Transporter (Simple Gmail Service + 10s Timeout)
         const transporter = nodemailer.createTransport({
-            host: 'smtp.gmail.com',
-            port: 587,
-            secure: false, // Use STARTTLS
+            service: 'gmail',
             auth: {
                 user: process.env.EMAIL_USER,
                 pass: process.env.EMAIL_APP_PASSWORD
-            }
+            },
+            connectionTimeout: 10000 // Wait 10 seconds before timeout
         });
 
         const mailOptions = {
