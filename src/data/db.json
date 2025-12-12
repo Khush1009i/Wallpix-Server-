@@ -1,0 +1,2411 @@
+{
+    "wallpapers": [
+        {
+            "id": 1,
+            "title": "Neon City Streets Light",
+            "imageUrl": "https://images.unsplash.com/photo-1565214975484-3cfa9e56f914?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 495
+        },
+        {
+            "id": 2,
+            "title": "Misty Mountains II",
+            "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1984
+        },
+        {
+            "id": 3,
+            "title": "Abstract Waves Light",
+            "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000&auto=format&fit=crop",
+            "category": "Abstract",
+            "deviceType": "tablet",
+            "downloads": 1286
+        },
+        {
+            "id": 4,
+            "title": "Minimalist Desk Setup",
+            "imageUrl": "https://images.unsplash.com/photo-1493723843684-a4368d8b723f?q=80&w=1920&auto=format&fit=crop",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 540
+        },
+        {
+            "id": 5,
+            "title": "Deep Space Nebula",
+            "imageUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1000&auto=format&fit=crop",
+            "category": "Space",
+            "deviceType": "tablet",
+            "downloads": 3100
+        },
+        {
+            "id": 6,
+            "title": "Modern Architecture Pro",
+            "imageUrl": "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "mobile",
+            "downloads": 1642
+        },
+        {
+            "id": 7,
+            "title": "Cyber Samurai Pro",
+            "imageUrl": "https://images.unsplash.com/photo-1515630278258-407f66498911?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "mobile",
+            "downloads": 1972
+        },
+        {
+            "id": 8,
+            "title": "Lofoten Islands",
+            "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1920&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1200
+        },
+        {
+            "id": 9,
+            "title": "Clean White Room II",
+            "imageUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=1000&auto=format&fit=crop",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 1234
+        },
+        {
+            "id": 10,
+            "title": "Mars Surface Light",
+            "imageUrl": "https://images.unsplash.com/photo-1614730341194-75c607400070?q=80&w=1920&auto=format&fit=crop",
+            "category": "Space",
+            "deviceType": "desktop",
+            "downloads": 1163
+        },
+        {
+            "id": 11,
+            "title": "Glass Skyscraper",
+            "imageUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "tablet",
+            "downloads": 1500
+        },
+        {
+            "id": 12,
+            "title": "Tokyo Night",
+            "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "mobile",
+            "downloads": 3400
+        },
+        {
+            "id": 13,
+            "title": "Forest Fog",
+            "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1920&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1800
+        },
+        {
+            "id": 14,
+            "title": "Fluid Gradient Dark",
+            "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?q=80&w=1000&auto=format&fit=crop",
+            "category": "Abstract",
+            "deviceType": "tablet",
+            "downloads": 928
+        },
+        {
+            "id": 15,
+            "title": "Macbook Coffee Dark",
+            "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1920&auto=format&fit=crop",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 631
+        },
+        {
+            "id": 16,
+            "title": "Global Network Light",
+            "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "tablet",
+            "downloads": 1282
+        },
+        {
+            "id": 17,
+            "title": "Spiral Staircase V2",
+            "imageUrl": "https://images.unsplash.com/photo-1502005229766-528352261275?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "tablet",
+            "downloads": 875
+        },
+        {
+            "id": 18,
+            "title": "Neon Rain",
+            "imageUrl": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?q=80&w=1920&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 2200
+        },
+        {
+            "id": 19,
+            "title": "Autumn Road",
+            "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "tablet",
+            "downloads": 1300
+        },
+        {
+            "id": 20,
+            "title": "Beach Sunset",
+            "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "tablet",
+            "downloads": 3060
+        },
+        {
+            "id": 21,
+            "title": "Snowy Mountains",
+            "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "tablet",
+            "downloads": 4381
+        },
+        {
+            "id": 22,
+            "title": "Green Valley",
+            "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1293
+        },
+        {
+            "id": 23,
+            "title": "Forest Path",
+            "imageUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1752
+        },
+        {
+            "id": 24,
+            "title": "Ocean View",
+            "imageUrl": "https://images.unsplash.com/photo-1501854140884-074bf6b243e7?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 3614
+        },
+        {
+            "id": 25,
+            "title": "Neon Arcade II",
+            "imageUrl": "https://images.unsplash.com/photo-1531297461136-82lw8u9l2w4f?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 309
+        },
+        {
+            "id": 26,
+            "title": "Code Screen V2",
+            "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "tablet",
+            "downloads": 111
+        },
+        {
+            "id": 27,
+            "title": "Tech City",
+            "imageUrl": "https://images.unsplash.com/photo-1555685812-4b943f3db990?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "mobile",
+            "downloads": 2618
+        },
+        {
+            "id": 28,
+            "title": "Cyber Security Light",
+            "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cyberpunk",
+            "deviceType": "tablet",
+            "downloads": 1091
+        },
+        {
+            "id": 29,
+            "title": "City Skyline Pro",
+            "imageUrl": "https://images.unsplash.com/photo-1480796927426-f609979314bd?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "mobile",
+            "downloads": 1022
+        },
+        {
+            "id": 30,
+            "title": "Modern Home V2",
+            "imageUrl": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "tablet",
+            "downloads": 1259
+        },
+        {
+            "id": 31,
+            "title": "High Rise",
+            "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1000&auto=format&fit=crop",
+            "category": "Architecture",
+            "deviceType": "mobile",
+            "downloads": 4874
+        },
+        {
+            "id": 32,
+            "title": "Milky Way V2",
+            "imageUrl": "https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?q=80&w=1000&auto=format&fit=crop",
+            "category": "Space",
+            "deviceType": "desktop",
+            "downloads": 440
+        },
+        {
+            "id": 33,
+            "title": "Galaxy Swirl V2",
+            "imageUrl": "https://images.unsplash.com/photo-1454789548728-85d2696dd038?q=80&w=1000&auto=format&fit=crop",
+            "category": "Space",
+            "deviceType": "desktop",
+            "downloads": 1413
+        },
+        {
+            "id": 34,
+            "title": "Earth From Orbit II",
+            "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1000&auto=format&fit=crop",
+            "category": "Space",
+            "deviceType": "mobile",
+            "downloads": 107
+        },
+        {
+            "id": 35,
+            "title": "Color Explosion Pro",
+            "imageUrl": "https://images.unsplash.com/photo-1529641484336-efd516613436?q=80&w=1000&auto=format&fit=crop",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 617
+        },
+        {
+            "id": 36,
+            "title": "Purple Haze II",
+            "imageUrl": "https://images.unsplash.com/photo-1550684847-75bdda21cc95?q=80&w=1000&auto=format&fit=crop",
+            "category": "Abstract",
+            "deviceType": "tablet",
+            "downloads": 1758
+        },
+        {
+            "id": 37,
+            "title": "Paint Splash",
+            "imageUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1000&auto=format&fit=crop",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 57
+        },
+        {
+            "id": 38,
+            "title": "Mountain Lake",
+            "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 4134
+        },
+        {
+            "id": 39,
+            "title": "Green Tree",
+            "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 4513
+        },
+        {
+            "id": 40,
+            "title": "Sunlight Forest",
+            "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 508
+        },
+        {
+            "id": 41,
+            "title": "Morning Dew",
+            "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 3411
+        },
+        {
+            "id": 42,
+            "title": "Autumn Leaves",
+            "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=1000&auto=format&fit=crop",
+            "category": "Nature",
+            "deviceType": "mobile",
+            "downloads": 4626
+        },
+        {
+            "id": 43,
+            "title": "Drone Shot Light",
+            "imageUrl": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "desktop",
+            "downloads": 1510
+        },
+        {
+            "id": 44,
+            "title": "VR Headset Dark",
+            "imageUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "tablet",
+            "downloads": 1240
+        },
+        {
+            "id": 45,
+            "title": "AI Robot Remix",
+            "imageUrl": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?q=80&w=1000&auto=format&fit=crop",
+            "category": "Artificial Intelligence",
+            "deviceType": "tablet",
+            "downloads": 1769
+        },
+        {
+            "id": 46,
+            "title": "Futuristic Face Dark",
+            "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Artificial Intelligence",
+            "deviceType": "desktop",
+            "downloads": 1463
+        },
+        {
+            "id": 47,
+            "title": "Neural Network V2",
+            "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?q=80&w=1000&auto=format&fit=crop",
+            "category": "Artificial Intelligence",
+            "deviceType": "mobile",
+            "downloads": 1460
+        },
+        {
+            "id": 48,
+            "title": "Laptop Work V2",
+            "imageUrl": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "tablet",
+            "downloads": 241
+        },
+        {
+            "id": 49,
+            "title": "Computer Components",
+            "imageUrl": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?q=80&w=1000&auto=format&fit=crop",
+            "category": "Technology",
+            "deviceType": "tablet",
+            "downloads": 1414
+        },
+        {
+            "id": 50,
+            "title": "Code Editor",
+            "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop",
+            "category": "Minimal",
+            "deviceType": "tablet",
+            "downloads": 1652
+        },
+        {
+            "id": 51,
+            "title": "Pastel Geometric Remix",
+            "imageUrl": "https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=1000&auto=format&fit=crop",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 275
+        },
+        {
+            "id": 52,
+            "title": "Speed Demon",
+            "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 1202
+        },
+        {
+            "id": 53,
+            "title": "Classic Beauty",
+            "imageUrl": "https://images.unsplash.com/photo-1503376763036-066120622c74?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "desktop",
+            "downloads": 948
+        },
+        {
+            "id": 54,
+            "title": "Urban Racer",
+            "imageUrl": "https://images.unsplash.com/photo-1542362567-b07e54358753?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "mobile",
+            "downloads": 1068
+        },
+        {
+            "id": 55,
+            "title": "Night Drive",
+            "imageUrl": "https://images.unsplash.com/photo-1580273916550-e323be2ebeed?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 3279
+        },
+        {
+            "id": 56,
+            "title": "Luxury Wheels",
+            "imageUrl": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "mobile",
+            "downloads": 2798
+        },
+        {
+            "id": 57,
+            "title": "Red Horizon",
+            "imageUrl": "https://images.unsplash.com/photo-1552519507-da8b122753a6?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 3446
+        },
+        {
+            "id": 58,
+            "title": "Drift King",
+            "imageUrl": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 4781
+        },
+        {
+            "id": 59,
+            "title": "Vintage Soul",
+            "imageUrl": "https://images.unsplash.com/photo-1493238792000-8113da705763?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 687
+        },
+        {
+            "id": 60,
+            "title": "Electric Future",
+            "imageUrl": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "mobile",
+            "downloads": 1163
+        },
+        {
+            "id": 61,
+            "title": "Track Day",
+            "imageUrl": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "desktop",
+            "downloads": 3620
+        },
+        {
+            "id": 62,
+            "title": "Supercar",
+            "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "desktop",
+            "downloads": 4809
+        },
+        {
+            "id": 63,
+            "title": "Hypercar",
+            "imageUrl": "https://images.unsplash.com/photo-1519641470251-1db81f6ca913?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "mobile",
+            "downloads": 4919
+        },
+        {
+            "id": 64,
+            "title": "Street Legend",
+            "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "tablet",
+            "downloads": 2801
+        },
+        {
+            "id": 65,
+            "title": "Asphalt Beast",
+            "imageUrl": "https://images.unsplash.com/photo-1544602356-8ad48e9d366c?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "mobile",
+            "downloads": 3554
+        },
+        {
+            "id": 66,
+            "title": "Neon Rider",
+            "imageUrl": "https://images.unsplash.com/photo-1566008924536-e1186f435fd1?q=80&w=1000&auto=format&fit=crop",
+            "category": "Cars",
+            "deviceType": "desktop",
+            "downloads": 416
+        },
+        {
+            "id": 67,
+            "title": "A Beach With A Bridge And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_beach_with_a_bridge_and_trees.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 2
+        },
+        {
+            "id": 68,
+            "title": "A Beach With A Bridge And Trees 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_beach_with_a_bridge_and_trees_01.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 322
+        },
+        {
+            "id": 69,
+            "title": "A Beach With Palm Trees And A Moon",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_beach_with_palm_trees_and_a_moon.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 289
+        },
+        {
+            "id": 70,
+            "title": "A Bench In A Bamboo Forest",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bench_in_a_bamboo_forest.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 147
+        },
+        {
+            "id": 71,
+            "title": "A Bench Next To A River",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bench_next_to_a_river.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 403
+        },
+        {
+            "id": 72,
+            "title": "A Bird Flying In The Sky",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_flying_in_the_sky.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 422
+        },
+        {
+            "id": 73,
+            "title": "A Bird Flying Over A Building",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_flying_over_a_building.jpeg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 13
+        },
+        {
+            "id": 74,
+            "title": "A Bird Flying With A Red Cape And A Man Flying",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_flying_with_a_red_cape_and_a_man_flying.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 422
+        },
+        {
+            "id": 75,
+            "title": "A Bird On A Branch",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_on_a_branch.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 269
+        },
+        {
+            "id": 76,
+            "title": "A Bird On A Branch",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_on_a_branch.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 148
+        },
+        {
+            "id": 77,
+            "title": "A Bird Sitting On A Railing Next To A Satellite Dish",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 36
+        },
+        {
+            "id": 78,
+            "title": "A Black And White Diagram Of A Tree Of Life",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_black_and_white_diagram_of_a_tree_of_life.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 341
+        },
+        {
+            "id": 79,
+            "title": "A Blue Tiger With Black Lines And White Teeth",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_blue_tiger_with_black_lines_and_white_teeth.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 364
+        },
+        {
+            "id": 80,
+            "title": "A Body Of Water With A Bridge And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_body_of_water_with_a_bridge_and_trees.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 79
+        },
+        {
+            "id": 81,
+            "title": "A Bug With A Green Light On The Wall",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_bug_with_a_green_light_on_the_wall.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 82
+        },
+        {
+            "id": 82,
+            "title": "A",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 124
+        },
+        {
+            "id": 83,
+            "title": "A Beach With Waves And Cliffs",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_beach_with_waves_and_cliffs.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 97
+        },
+        {
+            "id": 84,
+            "title": "A Beach With Waves And Rocks",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_beach_with_waves_and_rocks.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 90
+        },
+        {
+            "id": 85,
+            "title": "A Body Of Water With A Lit Up Tower In The Middle",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_body_of_water_with_a_lit_up_tower_in_the_middle.png",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 151
+        },
+        {
+            "id": 86,
+            "title": "A Building In The Woods",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_building_in_the_woods.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 134
+        },
+        {
+            "id": 87,
+            "title": "A Close Up Of A Bush",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_bush.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 30
+        },
+        {
+            "id": 88,
+            "title": "A Close Up Of A Fern",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_fern.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 118
+        },
+        {
+            "id": 89,
+            "title": "A Close Up Of A Flower",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_flower.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 52
+        },
+        {
+            "id": 90,
+            "title": "A Close Up Of A Flower 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_flower_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 132
+        },
+        {
+            "id": 91,
+            "title": "A Close Up Of A Plant",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_plant.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 85
+        },
+        {
+            "id": 92,
+            "title": "A Close Up Of A Plant",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_a_plant.png",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 309
+        },
+        {
+            "id": 93,
+            "title": "A Close Up Of Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 471
+        },
+        {
+            "id": 94,
+            "title": "A Close Up Of Leaves 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_leaves_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 152
+        },
+        {
+            "id": 95,
+            "title": "A Close Up Of Leaves 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_leaves_02.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 73
+        },
+        {
+            "id": 96,
+            "title": "A Close Up Of Moss On A Branch",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_moss_on_a_branch.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 39
+        },
+        {
+            "id": 97,
+            "title": "A Black And White Drawing Of A Person With A Blindfold",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_drawing_of_a_person_with_a_blindfold.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 231
+        },
+        {
+            "id": 98,
+            "title": "A Black And White Drawing Of A Woman In A Black And White Dress",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_drawing_of_a_woman_in_a_black_and_white_dress.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 48
+        },
+        {
+            "id": 99,
+            "title": "A Black And White Image Of A Group Of People",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_image_of_a_group_of_people.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 321
+        },
+        {
+            "id": 100,
+            "title": "A Black And White Logo",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_logo.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 440
+        },
+        {
+            "id": 101,
+            "title": "A Black And White Maze",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_maze.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 264
+        },
+        {
+            "id": 102,
+            "title": "A Black And White Picture Of Mountains And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_and_white_picture_of_mountains_and_trees.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 276
+        },
+        {
+            "id": 103,
+            "title": "A Black Liquid Floating In The Air",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_black_liquid_floating_in_the_air.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 3
+        },
+        {
+            "id": 104,
+            "title": "A Blue And Orange Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_blue_and_orange_background.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 280
+        },
+        {
+            "id": 105,
+            "title": "A Chair On A Platform With A Halo Above It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_chair_on_a_platform_with_a_halo_above_it.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 259
+        },
+        {
+            "id": 106,
+            "title": "A Close Up Of A Person With Wings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_close_up_of_a_person_with_wings.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 83
+        },
+        {
+            "id": 107,
+            "title": "A Colorful Background With Different Shapes And Patterns",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_colorful_background_with_different_shapes_and_patterns.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 209
+        },
+        {
+            "id": 108,
+            "title": "A Colorful Swirls Of Paint",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_colorful_swirls_of_paint.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 191
+        },
+        {
+            "id": 109,
+            "title": "A Drawing Of A Sun And A Ball",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_drawing_of_a_sun_and_a_ball.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 49
+        },
+        {
+            "id": 110,
+            "title": "A Drawing Of An Astronaut Holding A Rocket",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_drawing_of_an_astronaut_holding_a_rocket.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 403
+        },
+        {
+            "id": 111,
+            "title": "A Face In A Blue Light",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_face_in_a_blue_light.jpeg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 347
+        },
+        {
+            "id": 112,
+            "title": "A Black Sky With White Dots",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_black_sky_with_white_dots.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 458
+        },
+        {
+            "id": 113,
+            "title": "A Blue And Pink Sky Over A Mountain Range",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_blue_and_pink_sky_over_a_mountain_range.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 382
+        },
+        {
+            "id": 114,
+            "title": "A Blue Mountains With A Blue Sky",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_blue_mountains_with_a_blue_sky.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 42
+        },
+        {
+            "id": 115,
+            "title": "A Blue Pen And A Note",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_blue_pen_and_a_note.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 427
+        },
+        {
+            "id": 116,
+            "title": "A Blue Rectangular Object With A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_blue_rectangular_object_with_a_black_background.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 198
+        },
+        {
+            "id": 117,
+            "title": "A Blue Sky Over A Mountain Range",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_blue_sky_over_a_mountain_range.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 21
+        },
+        {
+            "id": 118,
+            "title": "A Cartoon Of A Island With A Bridge And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_a_island_with_a_bridge_and_trees.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 482
+        },
+        {
+            "id": 119,
+            "title": "A Cartoon Of A Island With A Bridge And Trees 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 132
+        },
+        {
+            "id": 120,
+            "title": "A Cartoon Of Trees And Clouds",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_trees_and_clouds.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 150
+        },
+        {
+            "id": 121,
+            "title": "A Cartoon Of Trees On A Hill",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_trees_on_a_hill.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 316
+        },
+        {
+            "id": 122,
+            "title": "A Cartoon Of Trees On A Hill 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_trees_on_a_hill_01.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 147
+        },
+        {
+            "id": 123,
+            "title": "A Cartoon Of Trees On A Hill 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cartoon_of_trees_on_a_hill_02.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 98
+        },
+        {
+            "id": 124,
+            "title": "A Cat In A Cup",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_cat_in_a_cup.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 233
+        },
+        {
+            "id": 125,
+            "title": "A City Skyline With A Pink Sky",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_city_skyline_with_a_pink_sky.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 350
+        },
+        {
+            "id": 126,
+            "title": "A Close Up Of A Door",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_close-up_of_a_door.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 391
+        },
+        {
+            "id": 127,
+            "title": "Osaka Castle With A Green Roof",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/Osaka_Castle_with_a_green_roof.png",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 55
+        },
+        {
+            "id": 128,
+            "title": "A Bridge With Lights On It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_bridge_with_lights_on_it.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 465
+        },
+        {
+            "id": 129,
+            "title": "A Building With A Balcony",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_a_balcony.jpeg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 197
+        },
+        {
+            "id": 130,
+            "title": "A Building With A Drone On Top",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_a_drone_on_top.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 91
+        },
+        {
+            "id": 131,
+            "title": "A Building With A Sign On It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_a_sign_on_it.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 81
+        },
+        {
+            "id": 132,
+            "title": "A Building With A Walkway And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_a_walkway_and_trees.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 412
+        },
+        {
+            "id": 133,
+            "title": "A Building With A Window",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_a_window.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 153
+        },
+        {
+            "id": 134,
+            "title": "A Building With Balconies",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_balconies.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 66
+        },
+        {
+            "id": 135,
+            "title": "A Building With Balconies And Windows",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_balconies_and_windows.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 324
+        },
+        {
+            "id": 136,
+            "title": "A Building With Flowers On The Balcony",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_flowers_on_the_balcony.png",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 148
+        },
+        {
+            "id": 137,
+            "title": "A Building With Many Balconies",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_many_balconies.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 26
+        },
+        {
+            "id": 138,
+            "title": "A Building With Many Windows",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_many_windows.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 352
+        },
+        {
+            "id": 139,
+            "title": "A Building With Many Windows 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_many_windows_01.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 431
+        },
+        {
+            "id": 140,
+            "title": "A Building With Many Windows 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_many_windows_02.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 216
+        },
+        {
+            "id": 141,
+            "title": "A Building With Many Windows 03",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_many_windows_03.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 269
+        },
+        {
+            "id": 142,
+            "title": "A Black And White Logo",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/geometry/a_black_and_white_logo.jpg",
+            "category": "Geometric",
+            "deviceType": "desktop",
+            "downloads": 110
+        },
+        {
+            "id": 143,
+            "title": "A Group Of Symbols On A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/geometry/a_group_of_symbols_on_a_black_background.jpg",
+            "category": "Geometric",
+            "deviceType": "desktop",
+            "downloads": 286
+        },
+        {
+            "id": 144,
+            "title": "A Computer Room With A Desk And A Computer Monitor",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_computer_room_with_a_desk_and_a_computer_monitor.jpg",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 69
+        },
+        {
+            "id": 145,
+            "title": "A Pixel Art Of A Building",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_pixel_art_of_a_building.png",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 264
+        },
+        {
+            "id": 146,
+            "title": "A Pixel Art Of A City Street",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_pixel_art_of_a_city_street.png",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 296
+        },
+        {
+            "id": 147,
+            "title": "A Pixel Art Of A Person Walking By A Building",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_pixel_art_of_a_person_walking_by_a_building.jpg",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 172
+        },
+        {
+            "id": 148,
+            "title": "A Purple Cube With A Black Circle And Buttons",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_purple_cube_with_a_black_circle_and_buttons.jpg",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 398
+        },
+        {
+            "id": 149,
+            "title": "A Video Game Screen With Trees And Bushes",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/pixel/a_video_game_screen_with_trees_and_bushes.jpg",
+            "category": "Pixel Art",
+            "deviceType": "desktop",
+            "downloads": 480
+        },
+        {
+            "id": 150,
+            "title": "A Basket Of Flowers",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_basket_of_flowers.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 310
+        },
+        {
+            "id": 151,
+            "title": "A Blue Flower With Green Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_blue_flower_with_green_leaves.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 344
+        },
+        {
+            "id": 152,
+            "title": "A Blue Sky With White Clouds And Small White Flowers",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_blue_sky_with_white_clouds_and_small_white_flowers.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 423
+        },
+        {
+            "id": 153,
+            "title": "A Bouquet Of Flowers",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 91
+        },
+        {
+            "id": 154,
+            "title": "A Bouquet Of Flowers And Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_and_leaves.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 474
+        },
+        {
+            "id": 155,
+            "title": "A Bouquet Of Flowers In A Dark Room",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_in_a_dark_room.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 188
+        },
+        {
+            "id": 156,
+            "title": "A Bouquet Of Flowers In A Vase",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_in_a_vase.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 422
+        },
+        {
+            "id": 157,
+            "title": "A Bouquet Of Flowers On A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_on_a_black_background.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 31
+        },
+        {
+            "id": 158,
+            "title": "A Bouquet Of Flowers On A Cloth",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_on_a_cloth.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 420
+        },
+        {
+            "id": 159,
+            "title": "A Bouquet Of Flowers With Green Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_bouquet_of_flowers_with_green_leaves.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 196
+        },
+        {
+            "id": 160,
+            "title": "A Close Up Of A Bush With Pink Flowers",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_bush_with_pink_flowers.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 483
+        },
+        {
+            "id": 161,
+            "title": "A Close Up Of A Dandelion",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_dandelion.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 366
+        },
+        {
+            "id": 162,
+            "title": "A Close Up Of A Flower",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 309
+        },
+        {
+            "id": 163,
+            "title": "A Close Up Of A Flower",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower.png",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 80
+        },
+        {
+            "id": 164,
+            "title": "A Close Up Of A Flower 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_01.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 167
+        },
+        {
+            "id": 165,
+            "title": "A Body Of Water With Rocks And A Cliff",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_body_of_water_with_rocks_and_a_cliff.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 121
+        },
+        {
+            "id": 166,
+            "title": "A Castle On A Hill With Fog With Eltz Castle In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_castle_on_a_hill_with_fog_with_Eltz_Castle_in_the_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 331
+        },
+        {
+            "id": 167,
+            "title": "A City In The Distance With Clouds",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_city_in_the_distance_with_clouds.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 458
+        },
+        {
+            "id": 168,
+            "title": "A Close Up Of Rocks",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_close_up_of_rocks.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 309
+        },
+        {
+            "id": 169,
+            "title": "A Iceberg In The Water With Mountains In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_iceberg_in_the_water_with_mountains_in_the_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 376
+        },
+        {
+            "id": 170,
+            "title": "A Large Canyon With A Sunset With Badlands National Park In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_large_canyon_with_a_sunset_with_Badlands_National_Park_in_the_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 436
+        },
+        {
+            "id": 171,
+            "title": "A Large Rock Formation In The Mountains",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_large_rock_formation_in_the_mountains.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 449
+        },
+        {
+            "id": 172,
+            "title": "A Large Rock Formation On A Beach",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_large_rock_formation_on_a_beach.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 25
+        },
+        {
+            "id": 173,
+            "title": "A Large Rock In The Middle Of A Body Of Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_large_rock_in_the_middle_of_a_body_of_water.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 332
+        },
+        {
+            "id": 174,
+            "title": "A Mountain Range With Clouds In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_clouds_in_the_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 490
+        },
+        {
+            "id": 175,
+            "title": "A Mountain Range With Dark Clouds",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_dark_clouds.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 368
+        },
+        {
+            "id": 176,
+            "title": "A Mountain Range With Snow On Top",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_snow_on_top.jpeg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 29
+        },
+        {
+            "id": 177,
+            "title": "A Mountain Range With Snow On Top",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_snow_on_top.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 174
+        },
+        {
+            "id": 178,
+            "title": "A Mountain Range With Snow On Top 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_snow_on_top_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 333
+        },
+        {
+            "id": 179,
+            "title": "A Mountain Range With Trees And A Valley",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_range_with_trees_and_a_valley.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 38
+        },
+        {
+            "id": 180,
+            "title": "A Astronaut Walking Through A Doorway",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_astronaut_walking_through_a_doorway.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 152
+        },
+        {
+            "id": 181,
+            "title": "A City At Night With A Fence And Buildings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_city_at_night_with_a_fence_and_buildings.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 123
+        },
+        {
+            "id": 182,
+            "title": "A City Skyline With A Sunset In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_city_skyline_with_a_sunset_in_the_background.png",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 204
+        },
+        {
+            "id": 183,
+            "title": "A Gas Station With Purple Lights",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_gas_station_with_purple_lights.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 434
+        },
+        {
+            "id": 184,
+            "title": "A Group Of Flowers On A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_group_of_flowers_on_a_black_background.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 412
+        },
+        {
+            "id": 185,
+            "title": "A Group Of Palm Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_group_of_palm_trees.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 298
+        },
+        {
+            "id": 186,
+            "title": "A Person'S Feet In A Car",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_person's_feet_in_a_car.png",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 374
+        },
+        {
+            "id": 187,
+            "title": "A Person Wearing Headphones",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_person_wearing_headphones.png",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 222
+        },
+        {
+            "id": 188,
+            "title": "A Skeleton With A Skull And Arms",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_skeleton_with_a_skull_and_arms.jpg",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 249
+        },
+        {
+            "id": 189,
+            "title": "A Sports Car With Neon Lights",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_sports_car_with_neon_lights.png",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 478
+        },
+        {
+            "id": 190,
+            "title": "A Street With Buildings And Signs",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/outrun/a_street_with_buildings_and_signs.png",
+            "category": "Cyberpunk",
+            "deviceType": "desktop",
+            "downloads": 476
+        },
+        {
+            "id": 191,
+            "title": "A Building With A Clock Tower And Lights On It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_a_clock_tower_and_lights_on_it.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 215
+        },
+        {
+            "id": 192,
+            "title": "A Building With A Flag On The Roof",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_a_flag_on_the_roof.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 245
+        },
+        {
+            "id": 193,
+            "title": "A Building With A Light On The Side",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_a_light_on_the_side.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 478
+        },
+        {
+            "id": 194,
+            "title": "A Building With Boats In The Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_boats_in_the_water.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 108
+        },
+        {
+            "id": 195,
+            "title": "A Building With Boats On The Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_boats_on_the_water.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 478
+        },
+        {
+            "id": 196,
+            "title": "A Building With Boats On The Water 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_boats_on_the_water_01.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 111
+        },
+        {
+            "id": 197,
+            "title": "A Building With Trees In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_trees_in_the_background.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 105
+        },
+        {
+            "id": 198,
+            "title": "A Building With Trees In The Background 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_trees_in_the_background_01.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 281
+        },
+        {
+            "id": 199,
+            "title": "A Building With Trees In The Background 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_trees_in_the_background_02.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 157
+        },
+        {
+            "id": 200,
+            "title": "A Building With Trees In The Background 03",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_building_with_trees_in_the_background_03.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 120
+        },
+        {
+            "id": 201,
+            "title": "A Cartoon Character In A Pond Surrounded By Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_cartoon_character_in_a_pond_surrounded_by_leaves.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 142
+        },
+        {
+            "id": 202,
+            "title": "A Cartoon House On A Floating Platform",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_cartoon_house_on_a_floating_platform.jpg",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 425
+        },
+        {
+            "id": 203,
+            "title": "A Cartoon Of A Airship Flying Over A Mountain",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_cartoon_of_a_airship_flying_over_a_mountain.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 452
+        },
+        {
+            "id": 204,
+            "title": "A Cartoon Of A Boat In The Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_cartoon_of_a_boat_in_the_water.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 198
+        },
+        {
+            "id": 205,
+            "title": "A Cartoon Of A Boat In Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/anime/a_cartoon_of_a_boat_in_water.png",
+            "category": "Anime",
+            "deviceType": "desktop",
+            "downloads": 428
+        },
+        {
+            "id": 206,
+            "title": "A Close Up Of Pink Flowers",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_pink_flowers.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 267
+        },
+        {
+            "id": 207,
+            "title": "A Close Up Of Red Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_close_up_of_red_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 415
+        },
+        {
+            "id": 208,
+            "title": "A Deer With Antlers Grazing On Grass",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_deer_with_antlers_grazing_on_grass.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 327
+        },
+        {
+            "id": 209,
+            "title": "A Fog Over Water With A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_fog_over_water_with_a_black_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 152
+        },
+        {
+            "id": 210,
+            "title": "A Foggy Landscape With Trees And Grass",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_foggy_landscape_with_trees_and_grass.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 271
+        },
+        {
+            "id": 211,
+            "title": "A Forest Of Trees With Fog",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_forest_of_trees_with_fog.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 475
+        },
+        {
+            "id": 212,
+            "title": "A Forest With Moss And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_forest_with_moss_and_trees.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 426
+        },
+        {
+            "id": 213,
+            "title": "A Group Of Bamboo Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_bamboo_trees.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 242
+        },
+        {
+            "id": 214,
+            "title": "A Group Of Bamboo Trees 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_bamboo_trees_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 117
+        },
+        {
+            "id": 215,
+            "title": "A Group Of Black Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_black_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 457
+        },
+        {
+            "id": 216,
+            "title": "A Group Of Dark Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_dark_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 404
+        },
+        {
+            "id": 217,
+            "title": "A Group Of Fish Swimming In A Pond",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_fish_swimming_in_a_pond.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 211
+        },
+        {
+            "id": 218,
+            "title": "A Group Of Green Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_green_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 89
+        },
+        {
+            "id": 219,
+            "title": "A Group Of Pink Tulips",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_pink_tulips.png",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 444
+        },
+        {
+            "id": 220,
+            "title": "A Group Of Trees With Green Leaves",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/nature/a_group_of_trees_with_green_leaves.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 443
+        },
+        {
+            "id": 221,
+            "title": "A Group Of Bubbles On A White Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_group_of_bubbles_on_a_white_background.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 301
+        },
+        {
+            "id": 222,
+            "title": "A Group Of Buildings With Blue Awnings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_group_of_buildings_with_blue_awnings.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 16
+        },
+        {
+            "id": 223,
+            "title": "A Group Of Potted Plants",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_group_of_potted_plants.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 443
+        },
+        {
+            "id": 224,
+            "title": "A Group Of White Lines On A Black Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_group_of_white_lines_on_a_black_background.jpeg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 460
+        },
+        {
+            "id": 225,
+            "title": "A Man And Woman Eating Food",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_man_and_woman_eating_food.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 106
+        },
+        {
+            "id": 226,
+            "title": "A Man Sitting In A Chair",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_man_sitting_in_a_chair.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 72
+        },
+        {
+            "id": 227,
+            "title": "A Map Of A City",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_map_of_a_city.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 34
+        },
+        {
+            "id": 228,
+            "title": "A Mountain With A Lake In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_mountain_with_a_lake_in_the_background.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 307
+        },
+        {
+            "id": 229,
+            "title": "A Painting Of A Building In A Dark Landscape",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_painting_of_a_building_in_a_dark_landscape.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 416
+        },
+        {
+            "id": 230,
+            "title": "A Painting Of A Building In The Desert",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_painting_of_a_building_in_the_desert.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 115
+        },
+        {
+            "id": 231,
+            "title": "A Painting Of A Man With A Dripping Face",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_painting_of_a_man_with_a_dripping_face.jpg",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 119
+        },
+        {
+            "id": 232,
+            "title": "A Painting Of A Man With A Face On His Head",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_painting_of_a_man_with_a_face_on_his_head.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 32
+        },
+        {
+            "id": 233,
+            "title": "A Painting Of A Mountain",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_painting_of_a_mountain.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 298
+        },
+        {
+            "id": 234,
+            "title": "A Pink And Green Object With Circles And Dots",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_pink_and_green_object_with_circles_and_dots.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 241
+        },
+        {
+            "id": 235,
+            "title": "A Pyramids With Palm Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/abstract/a_pyramids_with_palm_trees.png",
+            "category": "Abstract",
+            "deviceType": "desktop",
+            "downloads": 224
+        },
+        {
+            "id": 236,
+            "title": "A Colorful Planets In A Circle",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_colorful_planets_in_a_circle.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 298
+        },
+        {
+            "id": 237,
+            "title": "A Colorful Snow Covered Land",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_colorful_snow_covered_land.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 376
+        },
+        {
+            "id": 238,
+            "title": "A Donut With Sprinkles On Top",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_donut_with_sprinkles_on_top.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 42
+        },
+        {
+            "id": 239,
+            "title": "A Drawing Of A Bear And A Campfire",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_drawing_of_a_bear_and_a_campfire.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 79
+        },
+        {
+            "id": 240,
+            "title": "A Flower On A Dark Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_flower_on_a_dark_background.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 353
+        },
+        {
+            "id": 241,
+            "title": "A Group Of Colorful Hearts",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_group_of_colorful_hearts.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 15
+        },
+        {
+            "id": 242,
+            "title": "A Group Of Planets In Different Colors",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_group_of_planets_in_different_colors.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 254
+        },
+        {
+            "id": 243,
+            "title": "A Group Of White Pencils",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_group_of_white_pencils.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 306
+        },
+        {
+            "id": 244,
+            "title": "A Landscape Of Mountains And A Pink Sky",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_pink_sky.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 461
+        },
+        {
+            "id": 245,
+            "title": "A Landscape Of Mountains And A Sunset",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_sunset.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 41
+        },
+        {
+            "id": 246,
+            "title": "A Landscape Of Mountains And A Sunset 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_sunset_01.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 11
+        },
+        {
+            "id": 247,
+            "title": "A Landscape Of Mountains And A Sunset 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_sunset_02.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 285
+        },
+        {
+            "id": 248,
+            "title": "A Landscape Of Mountains And A Sunset 03",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_sunset_03.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 362
+        },
+        {
+            "id": 249,
+            "title": "A Landscape Of Mountains And A Sunset 04",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_a_sunset_04.png",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 444
+        },
+        {
+            "id": 250,
+            "title": "A Landscape Of Mountains And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/minimal/a_landscape_of_mountains_and_trees.jpg",
+            "category": "Minimal",
+            "deviceType": "desktop",
+            "downloads": 433
+        },
+        {
+            "id": 251,
+            "title": "A Building With Shutters On Windows",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_building_with_shutters_on_windows.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 352
+        },
+        {
+            "id": 252,
+            "title": "A City Alley With Buildings And Power Lines",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_alley_with_buildings_and_power_lines.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 138
+        },
+        {
+            "id": 253,
+            "title": "A City At Night With Lights",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_at_night_with_lights.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 494
+        },
+        {
+            "id": 254,
+            "title": "A City At Night With Many Tall Buildings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_at_night_with_many_tall_buildings.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 17
+        },
+        {
+            "id": 255,
+            "title": "A City By The Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_by_the_water.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 419
+        },
+        {
+            "id": 256,
+            "title": "A City In The Snow",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_in_the_snow.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 457
+        },
+        {
+            "id": 257,
+            "title": "A City Skyline At Night",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_skyline_at_night.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 464
+        },
+        {
+            "id": 258,
+            "title": "A City Skyline At Night 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_skyline_at_night_01.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 460
+        },
+        {
+            "id": 259,
+            "title": "A City Skyline With A Sunset Behind It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_skyline_with_a_sunset_behind_it.png",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 168
+        },
+        {
+            "id": 260,
+            "title": "A City Skyline With A Tall Building",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_skyline_with_a_tall_building.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 421
+        },
+        {
+            "id": 261,
+            "title": "A City Skyline With Mountains In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_skyline_with_mountains_in_the_background.png",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 247
+        },
+        {
+            "id": 262,
+            "title": "A City With Many Tall Buildings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_with_many_tall_buildings.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 251
+        },
+        {
+            "id": 263,
+            "title": "A City With Tall Buildings",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_with_tall_buildings.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 327
+        },
+        {
+            "id": 264,
+            "title": "A City With Tall Buildings And Water In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_with_tall_buildings_and_water_in_the_background.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 17
+        },
+        {
+            "id": 265,
+            "title": "A City With Trees And Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/architecture/a_city_with_trees_and_water.jpg",
+            "category": "Architecture",
+            "deviceType": "desktop",
+            "downloads": 246
+        },
+        {
+            "id": 266,
+            "title": "A Close Up Of A Flower 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_01.png",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 445
+        },
+        {
+            "id": 267,
+            "title": "A Close Up Of A Flower 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_02.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 67
+        },
+        {
+            "id": 268,
+            "title": "A Close Up Of A Flower 03",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_03.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 377
+        },
+        {
+            "id": 269,
+            "title": "A Close Up Of A Flower 04",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_04.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 138
+        },
+        {
+            "id": 270,
+            "title": "A Close Up Of A Flower 05",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_05.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 396
+        },
+        {
+            "id": 271,
+            "title": "A Close Up Of A Flower 06",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_06.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 343
+        },
+        {
+            "id": 272,
+            "title": "A Close Up Of A Flower 07",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_07.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 416
+        },
+        {
+            "id": 273,
+            "title": "A Close Up Of A Flower 08",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_08.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 431
+        },
+        {
+            "id": 274,
+            "title": "A Close Up Of A Flower 09",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_09.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 204
+        },
+        {
+            "id": 275,
+            "title": "A Close Up Of A Flower 10",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_10.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 456
+        },
+        {
+            "id": 276,
+            "title": "A Close Up Of A Flower 11",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_11.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 275
+        },
+        {
+            "id": 277,
+            "title": "A Close Up Of A Flower 12",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_12.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 389
+        },
+        {
+            "id": 278,
+            "title": "A Close Up Of A Flower 13",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_13.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 424
+        },
+        {
+            "id": 279,
+            "title": "A Close Up Of A Flower 14",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_flower_14.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 53
+        },
+        {
+            "id": 280,
+            "title": "A Close Up Of A Plant",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/flowers/a_close_up_of_a_plant.jpg",
+            "category": "Flowers",
+            "deviceType": "desktop",
+            "downloads": 110
+        },
+        {
+            "id": 281,
+            "title": "A Mountain With A Road Going Through It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_a_road_going_through_it.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 234
+        },
+        {
+            "id": 282,
+            "title": "A Mountain With Clouds Above It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_clouds_above_it.png",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 308
+        },
+        {
+            "id": 283,
+            "title": "A Mountain With Clouds In The Sky",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_clouds_in_the_sky.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 297
+        },
+        {
+            "id": 284,
+            "title": "A Mountain With Smoke Coming Out Of It",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_smoke_coming_out_of_it.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 95
+        },
+        {
+            "id": 285,
+            "title": "A Mountain With Snow And Clouds",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_and_clouds.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 313
+        },
+        {
+            "id": 286,
+            "title": "A Mountain With Snow And Clouds 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_and_clouds_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 249
+        },
+        {
+            "id": 287,
+            "title": "A Mountain With Snow And Trees",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_and_trees.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 300
+        },
+        {
+            "id": 288,
+            "title": "A Mountain With Snow On Top",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 47
+        },
+        {
+            "id": 289,
+            "title": "A Mountain With Snow On Top 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 43
+        },
+        {
+            "id": 290,
+            "title": "A Mountain With Snow On Top 02",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top_02.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 433
+        },
+        {
+            "id": 291,
+            "title": "A Mountain With Snow On Top And A Body Of Water",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top_and_a_body_of_water.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 157
+        },
+        {
+            "id": 292,
+            "title": "A Mountain With Snow On Top And A Body Of Water 01",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top_and_a_body_of_water_01.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 427
+        },
+        {
+            "id": 293,
+            "title": "A Mountain With Snow On Top And Trees In The Background",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_mountain_with_snow_on_top_and_trees_in_the_background.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 385
+        },
+        {
+            "id": 294,
+            "title": "A Person On A Cliff",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_person_on_a_cliff.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 224
+        },
+        {
+            "id": 295,
+            "title": "A River In A Snowy Landscape",
+            "imageUrl": "https://raw.githubusercontent.com/dharmx/walls/main/mountain/a_river_in_a_snowy_landscape.jpg",
+            "category": "Nature",
+            "deviceType": "desktop",
+            "downloads": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Nature",
+            "coverUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 2,
+            "name": "Cyberpunk",
+            "coverUrl": "https://images.unsplash.com/photo-1565214975484-3cfa9e56f914?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 3,
+            "name": "Abstract",
+            "coverUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 4,
+            "name": "Minimal",
+            "coverUrl": "https://images.unsplash.com/photo-1493723843684-a4368d8b723f?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 5,
+            "name": "Space",
+            "coverUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 6,
+            "name": "Architecture",
+            "coverUrl": "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 7,
+            "name": "Technology",
+            "coverUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 8,
+            "name": "Artificial Intelligence",
+            "coverUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+            "id": 9,
+            "name": "Cars",
+            "coverUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1000&auto=format&fit=crop"
+        }
+    ]
+}
