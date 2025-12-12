@@ -251,17 +251,14 @@ exports.requestDeleteOtp = async (req, res) => {
             });
         }
 
-        // Configure Transporter (Try Port 2525 - often open on Cloud)
+        // Configure Transporter (Using Brevo SMTP Relay)
         const transporter = nodemailer.createTransport({
-            host: 'smtp.gmail.com',
-            port: 465, // Back to 465 SSL as 2525 is rarely for Gmail direct
-            secure: true,
+            host: 'smtp-relay.brevo.com',
+            port: 587,
+            secure: false, // TLS
             auth: {
                 user: process.env.EMAIL_USER,
                 pass: process.env.EMAIL_APP_PASSWORD
-            },
-            tls: {
-                rejectUnauthorized: false // Helps with self-signed certs issues
             },
             connectionTimeout: 10000
         });
