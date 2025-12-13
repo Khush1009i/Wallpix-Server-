@@ -1,37 +1,3 @@
 {
-    "users": [
-        {
-            "id": 1765473856215,
-            "username": "User_3639",
-            "email": "beinpast@gmail.com",
-            "password": "$2b$10$.rToKj3UWKbndjnQN2RQFueayHu8bCWK6.iP0KXsFBgWEZVXp5h/i",
-            "createdAt": "2025-12-11T17:24:16.215Z",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc2NTQ3Mzg1NjIxNSwiZW1haWwiOiJiZWlucGFzQGdtYWlsLmNvbSIsImlhdCI6MTc2NTQ3Mzg1NiwiZXhwIjoxNzY1NTYwMjU2fQ.3pAmaEu6EbfRp2NTwkIcSAbMQ5SgaGSJ-kX2SX_hQz8",
-            "downloads": [
-                {
-                    "wallpaperId": 1,
-                    "downloadedAt": "2025-12-11T17:24:48.838Z"
-                },
-                {
-                    "wallpaperId": 1,
-                    "downloadedAt": "2025-12-11T17:26:30.509Z"
-                }
-            ],
-            "favorites": [
-                1
-            ],
-            "deleteOtp": "799830",
-            "deleteOtpExpires": 1765477034368
-        },
-        {
-            "id": 1765475351578,
-            "username": "User_5728",
-            "email": "sonikhush004@gmail.com",
-            "password": "$2b$10$AzeAS7yw8yWRG0g1iYDFMOE.MluBkcQBg9aDD3W2pl7kCGsoCz0Li",
-            "createdAt": "2025-12-11T17:49:11.578Z",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTc2NTQ3NTM1MTU3OCwiZW1haWwiOiJzb25pa2h1c2gwMDRAZ21haWwuY29tIiwiaWF0IjoxNzY1NDc1MzUxLCJleHAiOjE3NjU1NjE3NTF9.aGWIXbxeUz82MdIcYUEK9wSEK8tjT6z2j3DrimBnrLs",
-            "deleteOtp": "265182",
-            "deleteOtpExpires": 1765476647035
-        }
-    ]
+    "users": []
 }
